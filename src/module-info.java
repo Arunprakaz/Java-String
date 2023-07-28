@@ -6,4 +6,5 @@
  *
  */
 module STRING {
+	requires java.desktop;
 }
